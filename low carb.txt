@@ -1,0 +1,114 @@
+talvez eu não esteja sendo claro, preciso que empenhe mais na criação dessa pagina.
+a pagina_dieta_gerada.php deve seguir estes paramentros para montar a dieta:
+
+1 - Se o usuário selecionar Mediterrânea na pagina_avaliacao.php baseada na categoria de alimentos da tabela alimentos_completos no banco de dados, a dieta dele deve incluir os itens especificados abaixo:
+
+Café da manhã:
+Pão integral
+Ovos (galinha)
+Nozes
+Morango
+
+Almoço:
+Salmão
+Arroz integral
+Alface
+Tomate
+Pepino
+
+Lanche da tarde:
+Maçã
+Laranja
+Castanha-do-Pará
+
+Jantar:
+Peito de frango grelhado
+Abobrinha
+Beringela
+Quinoa
+
+
+2 - Se o usuário selecionar a dieta Low Carb na pagina_avaliacao.php baseada na categoria de alimentos da tabela alimentos_completos no banco de dados, a dieta dele deve incluir os itens especificados abaixo:
+
+Café da manhã:
+
+Pão integral
+Ovos (galinha)
+
+Mamão
+
+Almoço:
+Peito de frango grelhado
+Cenoura
+Vagem
+Palmito
+Alface
+
+Café da tarde:
+Amêndoas
+Peito de peru
+Morango
+Kiwi
+
+Jantar
+Tilápia
+Abobrinha
+Alface
+Tomate
+
+3 - Se o usuário selecionar a dieta Cetogênica na pagina_avaliacao.php baseada na categoria de alimentos da tabela alimentos_completos no banco de dados, a dieta dele deve incluir os itens especificados abaixo:
+
+Café da manhã
+Ovos (galinha)
+Abacate
+Kiwi
+Morango
+
+Almoço:
+Patinho
+Brócolis
+Couve
+Alface
+Tomate
+Abobrinha
+
+Lanche da tarde:
+Peito de peru
+Castanha-do-Pará
+Abacate
+
+Jantar:
+Patinho
+Brócolis
+Espinafre
+Repolho
+Tomate
+Abobrinha
+
+4 - Se o usuário selecionar a dieta Vegetariana na pagina_avaliacao.php baseada na categoria de alimentos da tabela alimentos_completos no banco de dados, a dieta dele deve incluir os itens especificados abaixo:
+
+Café da manhã:
+Pão integral
+Ovos (galinha)
+Grão-de-bico (cozido)
+
+Almoço:
+Arroz integral
+Lentilha (cozida)
+Soja cozida
+Alface
+Couve-flor
+
+Lanche da tarde:
+Castanha-do-Pará
+Morango
+Laranja
+
+Jantar:
+Arroz integral
+Proteína de soja texturizada
+Lentilha (cozida)
+Cenoura
+Chuchu
+
+
